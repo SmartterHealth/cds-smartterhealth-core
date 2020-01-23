@@ -5,3 +5,8 @@
 ## Entities
 
 ### Hospital
+
+## Solutions
+
+* Get the unmanaged solution [here](https://github.com/SmartterHealth/cds-smartterhealth-core/raw/master/solutions/SmartterHealthCore.zip).
+* Get the managed solution [here](https://github.com/SmartterHealth/cds-smartterhealth-core/raw/master/solutions/SmartterHealthCore_managed.zip).
